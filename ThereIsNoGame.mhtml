@@ -1,0 +1,116 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://uploads.ungrounded.net/alternate/871000/871934_alternate_22758_r36.zip/?NewgroundsAPI_PublisherID=1&NewgroundsAPI_SandboxID=5e651d56d0f90&NewgroundsAPI_SessionID=&NewgroundsAPI_UserName=%26lt%3Bdeleted%26gt%3B&NewgroundsAPI_UserID=0&ng_username=%26lt%3Bdeleted%26gt%3B
+Subject: ThereIsNoGame
+Date: Sun, 8 Mar 2020 17:14:59 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--JDiOezICzpdf8xap2Ibl3ZeUMHnOagBu2flGw4PDVv----"
+
+
+------MultipartBoundary--JDiOezICzpdf8xap2Ibl3ZeUMHnOagBu2flGw4PDVv----
+Content-Type: text/html
+Content-ID: <frame-74D8663F33F8F8D23B34CABEDB215E53@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://uploads.ungrounded.net/alternate/871000/871934_alternate_22758_r36.zip/?NewgroundsAPI_PublisherID=1&NewgroundsAPI_SandboxID=5e651d56d0f90&NewgroundsAPI_SessionID=&NewgroundsAPI_UserName=%26lt%3Bdeleted%26gt%3B&NewgroundsAPI_UserID=0&ng_username=%26lt%3Bdeleted%26gt%3B
+
+<!DOCTYPE html><html manifest=3D"https://uploads.ungrounded.net/alternate/8=
+71000/871934_alternate_22758_r36.zip/offline.appcache"><head><meta http-equ=
+iv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"sty=
+lesheet" type=3D"text/css" href=3D"cid:css-d68523a3-8916-43d3-9ed3-e1507a19=
+2ec6@mhtml.blink" />
+   =20
+	<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge,chrome=3D1">
+	<title>ThereIsNoGame</title>
+=09
+	<!-- Standardised web app manifest -->
+	<link rel=3D"manifest" href=3D"https://uploads.ungrounded.net/alternate/87=
+1000/871934_alternate_22758_r36.zip/appmanifest.json">
+=09
+	<!-- Allow fullscreen mode on iOS devices. (These are Apple specific meta =
+tags.) -->
+	<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1=
+.0, maximum-scale=3D1.0, minimum-scale=3D1.0, user-scalable=3Dno, minimal-u=
+i">
+	<meta name=3D"apple-mobile-web-app-capable" content=3D"yes">
+	<meta name=3D"apple-mobile-web-app-status-bar-style" content=3D"black">
+	<link rel=3D"apple-touch-icon" sizes=3D"256x256" href=3D"https://uploads.u=
+ngrounded.net/alternate/871000/871934_alternate_22758_r36.zip/icon-256.png"=
+>
+	<meta name=3D"HandheldFriendly" content=3D"true">
+=09
+	<!-- Chrome for Android web app tags -->
+	<meta name=3D"mobile-web-app-capable" content=3D"yes">
+	<link rel=3D"shortcut icon" sizes=3D"256x256" href=3D"https://uploads.ungr=
+ounded.net/alternate/871000/871934_alternate_22758_r36.zip/icon-256.png">
+
+    <!-- All margins and padding must be zero for the canvas to fill the sc=
+reen. -->
+=09
+=09
+
+</head>=20
+=20
+<body style=3D"cursor: none;">=20
+	<div id=3D"fb-root"></div>
+=09
+=09
+=09
+	<!-- The canvas must be inside a div called c2canvasdiv -->
+	<div id=3D"c2canvasdiv" style=3D"width: 1312px; height: 738px; margin-left=
+: 112px; margin-top: 0px;">
+=09
+		<!-- The canvas the project will render to.  If you change its ID, don't =
+forget to change the
+		ID the runtime looks for in the jQuery events above (ready() and cr_sizeC=
+anvas()). -->
+		<canvas id=3D"c2canvas" width=3D"1640" height=3D"923" style=3D"width: 131=
+2px; height: 738px;">
+			<!-- This text is displayed if the visitor's browser does not support HT=
+ML5.
+			You can change it, but it is a good idea to link to a description of a b=
+rowser
+			and provide some links to download some popular HTML5-compatible browser=
+s. -->
+			<h1>Your browser does not appear to support HTML5.  Try upgrading your b=
+rowser to the latest version.  <a href=3D"http://www.whatbrowser.org/">What=
+ is a browser?</a>
+			<br><br><a href=3D"http://www.microsoft.com/windows/internet-explorer/de=
+fault.aspx">Microsoft Internet Explorer</a><br>
+			<a href=3D"http://www.mozilla.com/firefox/">Mozilla Firefox</a><br>
+			<a href=3D"http://www.google.com/chrome/">Google Chrome</a><br>
+			<a href=3D"http://www.apple.com/safari/download/">Apple Safari</a></h1>
+		</canvas>
+	=09
+	</div>
+=09
+	<!-- Pages load faster with scripts at the bottom -->
+=09
+	<!-- Construct 2 exported games require jQuery. -->
+=09
+
+
+=09
+    <!-- The runtime script.  You can rename it, but don't forget to rename=
+ the reference here as well.
+    This file will have been minified and obfuscated if you enabled "Minify=
+ script" during export. -->
+=09
+
+   =20
+=20
+ </body></html>
+------MultipartBoundary--JDiOezICzpdf8xap2Ibl3ZeUMHnOagBu2flGw4PDVv----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-d68523a3-8916-43d3-9ed3-e1507a192ec6@mhtml.blink
+
+@charset "utf-8";
+
+* { padding: 0px; margin: 0px; }
+
+html, body { background: rgb(0, 0, 0); color: rgb(255, 255, 255); overflow:=
+ hidden; touch-action: none; }
+
+canvas { touch-action: none; }
+------MultipartBoundary--JDiOezICzpdf8xap2Ibl3ZeUMHnOagBu2flGw4PDVv------
